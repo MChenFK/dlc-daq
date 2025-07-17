@@ -1,1 +1,7 @@
-# DLC-DAQ
+# dlc-daq
+
+## Hardware
+
+## Requirements
+
+## Steps to use
